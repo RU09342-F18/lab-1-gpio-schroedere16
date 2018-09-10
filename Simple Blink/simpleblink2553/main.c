@@ -8,7 +8,7 @@ int main(void)
 {
 	WDTCTL = WDTPW | WDTHOLD;	// stop watchdog timer
 	P1SEL &= ~BIT0;     //changes the P1SEL to zero
-	P1SEL2 &= ~BIT0;    //changes the P2SEL to zero
+	P1SEL2 &= ~BIT0;    //changes the P2SEL to zero both need to be zero to allow the direction register to be selected
 	P1DIR |= BIT0;      //changes the least significant bit to be one to make direction register go to output
 	while(1)
 	{
