@@ -1,4 +1,4 @@
-/*  Author Eric Schroeder
+/*  Author: Eric Schroeder
     Created: September 10, 2018
     Last Updated: September 12, 2018*/
 
