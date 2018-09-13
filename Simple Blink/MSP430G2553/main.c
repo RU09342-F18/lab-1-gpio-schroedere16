@@ -1,3 +1,7 @@
+/*  Author Eric Schroeder
+    Written September 10, 2018
+    Last Updated September 12, 2018*/
+
 #include <msp430.h> 
 #define BIT0 0x01;
 
