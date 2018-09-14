@@ -1,5 +1,5 @@
 # Button Blink
-These two codes show two different types of button presses on two different microcontrollers. These two codes depend on the msp430.h library. 
+These two codes show two different types of button presses on two different microcontrollers. The simpler code simply treats the microcontroller as a switch while the other uses a button to toggle the LED on and off. These two codes depend on the msp430.h library. 
 
 ## MSP430G2553
 The code for the MSP430G2553 treats the microcontoller as a switch essentially. When the button is pressed the LED will turn on and when the button is then released the LED will then turn off.
