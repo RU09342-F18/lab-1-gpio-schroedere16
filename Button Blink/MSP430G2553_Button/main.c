@@ -19,7 +19,7 @@ void main(void)
                 if( value == 0)                 // Push button down when bit 3 == 0
                         P1OUT |= BIT6;          // Turn LED on if button pressed
                 else
-                        P1OUT &= ~BIT6;         // Turn LED off if button no pressed
+                        P1OUT &= ~BIT6;         // Turn LED off if button not pressed
         }
         return 0;
 }
