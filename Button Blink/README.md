@@ -6,3 +6,7 @@ The code for the MSP430G2553 treats the microcontoller as a switch. When the but
 
 ## MSP430F5529
 The code for the MSP430F5529 toggles the LED. Therefore when the microcontroller is loaded with the code the LED will begin off. Once the button is intially pressed the LED will then toggle to become lit. Then the button can be pressed to turn the LED off again. 
+
+Author: Eric Schroeder
+Written: September 14, 2018
+Last Updated: September 14, 2018
