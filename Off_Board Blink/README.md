@@ -12,7 +12,7 @@ The code can be viewed in the folder above. It contains two delays to slow down 
 
   * Author: Eric Schroeder
   * Written: September 16, 2018
-  * Last Updated: Septemer 16, 2018
+  * Last Updated: Septemer 17, 2018
 
 
 
