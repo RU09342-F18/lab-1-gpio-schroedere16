@@ -6,6 +6,7 @@ The code will blink an LED on a bread board with just the removable chip in MSP4
 
 
 PICTURE OF CIRCUIT HERE
+<iframe src="https://giphy.com/embed/5vUQBWQfL8eCKYdXKs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5vUQBWQfL8eCKYdXKs">via GIPHY</a></p>
 
 The code can be viewed in the folder above. It contains two delays to slow down the LED blink to allow it to be seen. The user can alter the time between blinks by decreasing or incresing the number in the __delay_cycles lines of code. 
 
